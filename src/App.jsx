@@ -1,6 +1,6 @@
 import Button from "./components/newRepoButton/Button";
 import ListItem from "./components/row/ListItem"
-import SearchBar from "./components/SearchBar"
+import SearchBar from "./components/searchBar/SearchBar"
 import './globalStyles.css'
 import  repos from './sample-data.json';
 
