@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+  background-color: #000;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.repo-list{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: ; */
+    /* align-items: center; */
+    gap: 2.4rem;
+    width: fit-content;
+    margin: auto;
+
+}
+.repo-list__title{
+    font-size: 2.4rem;
+    color: #fff;
+}
+.repo-list__header{
+    display: flex;
+    justify-content: space-between;
+}
+.repo-list__list{
+    border: 1px solid #303036;
+    border-radius: 6px;
+}

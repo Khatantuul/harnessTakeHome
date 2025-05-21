@@ -1,0 +1,23 @@
+.tag {
+    width: 5.5rem;
+    height: 2rem;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: center;
+    /* padding: 5px 8px 6px 8px; */
+    border-radius: 30px;
+    font-size: 1.2rem;
+}
+
+
+.tag--public {
+    background-color: #C699E51A;
+    color: #C699E5;
+    border: 1px solid #C699E51F;
+}
+
+.tag--private {
+    background-color: #AEAEB71A;
+    color: #AEAEB7;
+    border: 1px solid #AEAEB71F;
+}

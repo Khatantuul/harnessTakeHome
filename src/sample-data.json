@@ -1,0 +1,86 @@
+[
+  {
+    "identifier": "harness-pl-infra",
+    "description": "Infra templates",
+    "updated": 1739467419664,
+    "num_pulls": 6,
+    "is_public": true
+  },
+  {
+    "identifier": "git-sync",
+    "description": "Git Sync implementation for all entities",
+    "updated": 1747701128390,
+    "num_pulls": 26,
+    "is_public": false
+  },
+  {
+    "identifier": "account-migration",
+    "description": "Migrator scripts to onboard users on new yaml",
+    "updated": 1737606678048,
+    "num_pulls": 0,
+    "is_public": false
+  },
+  {
+    "identifier": "acr-artifact-plugin",
+    "description": "",
+    "updated": 1744813219091,
+    "num_pulls": 6,
+    "is_public": false
+  },
+  {
+    "identifier": "admin-portal",
+    "description": "",
+    "updated": 1747774439541,
+    "num_pulls": 235,
+    "is_public": true
+  },
+  {
+    "identifier": "admin-ui",
+    "description": "",
+    "updated": 1747723872991,
+    "num_pulls": 207,
+    "is_public": false
+  },
+  {
+    "identifier": "agents",
+    "description": "",
+    "updated": 1747756586621,
+    "num_pulls": 102,
+    "is_public": false
+  },
+  {
+    "identifier": "ai-code-assistant",
+    "description": "",
+    "updated": 1747697422274,
+    "num_pulls": 358,
+    "is_public": false
+  },
+  {
+    "identifier": "ai-copilot",
+    "description": "",
+    "updated": 1747676378819,
+    "num_pulls": 19,
+    "is_public": true
+  },
+  {
+    "identifier": "ami-artifact-plugin",
+    "description": "",
+    "updated": 1744813875970,
+    "num_pulls": 5,
+    "is_public": false
+  },
+  {
+    "identifier": "artifact-cgi",
+    "description": "CGI task code for artifact connectors.",
+    "updated": 1739556174428,
+    "num_pulls": 1,
+    "is_public": true
+  },
+  {
+    "identifier": "artifactory-artifact-plugin",
+    "description": "",
+    "updated": 1744804020219,
+    "num_pulls": 3,
+    "is_public": false
+  }
+]

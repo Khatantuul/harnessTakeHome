@@ -1,0 +1,26 @@
+.search-input {
+  border: 1px solid #303036;
+  border-radius: 4px;
+  width: 32rem;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.7rem 1rem;
+}
+
+.search-input__icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  color: #303036;
+}
+
+.search-input__input {
+  outline: none;
+  border: none;
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  background-color: transparent;
+  color: #fff;
+}
